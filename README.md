@@ -28,7 +28,7 @@ A RESTful API for user profile management with JWT authentication built with Exp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/user-profile-api.git
+   git clone https://github.com/kirigaya07/Backend_assignment.git
    cd user-profile-api
    ```
 
